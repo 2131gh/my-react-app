@@ -13,6 +13,7 @@ A React + Vite app that shows a skills list, using the Express API in my-backend
 
 - React components, props, and state
 - Fetching data from an API with `fetch`
+
 ## About me
 
 I'm Nana, learning fullstack development.
